@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "141424351332",
+    "firebase_url": "https://massanger-5aef4.firebaseio.com",
+    "project_id": "massanger-5aef4",
+    "storage_bucket": "massanger-5aef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141424351332:android:6abdf80b6e20e61e",
+        "android_client_info": {
+          "package_name": "com.messenger.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141424351332-kqhvb13fe5j4r43s5s1llhvrg5drv4m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk8O6aIkFqptY9kQqZsCAk-zpakIdrJN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
